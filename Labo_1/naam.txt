@@ -1,0 +1,13 @@
+Labo1
+{Incorrect number or types of inputs or outputs for function remove.
+
+Error in <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Labo1', 'C:\Users\robin\Documents\3e jaar\REGELTECHNIEK\Labo1.m', 1)" style="font-weight:bold">Labo1</a> (<a href="matlab: opentoline('C:\Users\robin\Documents\3e jaar\REGELTECHNIEK\Labo1.m',1,0)">line 1</a>)
+remove naam.txt
+^^^^^^^^^^^^^^^
+} 
+Labo1
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Labo1', 'C:\Users\robin\Documents\3e jaar\REGELTECHNIEK\Labo1.m', 1)" style="font-weight:bold">Labo1</a> (<a href="matlab: opentoline('C:\Users\robin\Documents\3e jaar\REGELTECHNIEK\Labo1.m',1,0)">line 1</a>)] 
+Labo1
+[Warning: File not found or permission denied] 
+[> In <a href="matlab:matlab.lang.internal.introspective.errorDocCallback('Labo1', 'C:\Users\robin\Documents\3e jaar\REGELTECHNIEK\Labo1.m', 1)" style="font-weight:bold">Labo1</a> (<a href="matlab: opentoline('C:\Users\robin\Documents\3e jaar\REGELTECHNIEK\Labo1.m',1,0)">line 1</a>)] 
